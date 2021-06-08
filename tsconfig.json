@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "lib": ["esnext"],
+        "module": "commonjs",
+        "outDir": "out",
+        "removeComments": true,
+        "rootDir": "src",
+        "strict": true,
+        "target": "ESNext"
+    },
+    "exclude": ["node_modules"]
+}
