@@ -1,15 +1,15 @@
 {
   "version": "0.1.0",
-	"license": "MIT",
+  "license": "MIT",
   "main": "out/index.js",
   "scripts": {
-		"build": "scripts/build.sh",
-		"format": "scripts/format.sh",
-		"start": "node out/index.js"
-	},
+    "build": "scripts/build.sh",
+    "format": "scripts/format.sh",
+    "start": "node out/index.js"
+  },
   "devDependencies": {
     "@types/node": "^15.12.2",
-    "esbuild": "^0.12.6",
+    "esbuild": "^0.12.7",
     "prettier": "^2.3.1"
   }
 }
